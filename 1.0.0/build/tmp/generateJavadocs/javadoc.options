@@ -1,0 +1,9 @@
+-classpath '/home/wigzo/Android/adt-bundle-linux-x86_64-20140702/sdk/platforms/android-23/android.jar'
+-d '/home/wigzo/Android/android_workspace/wigzo_mobile_stack/Testing App/sdk-messaging/build/docs/javadoc'
+-doctitle 'sdk-messaging 1.0.0 API'
+-quiet 
+-windowtitle 'sdk-messaging 1.0.0 API'
+'/home/wigzo/Android/android_workspace/wigzo_mobile_stack/Testing App/sdk-messaging/src/main/java/wigzo/android/sdk/messaging/WigzoMessaging.java'
+'/home/wigzo/Android/android_workspace/wigzo_mobile_stack/Testing App/sdk-messaging/src/main/java/wigzo/android/sdk/messaging/Message.java'
+'/home/wigzo/Android/android_workspace/wigzo_mobile_stack/Testing App/sdk-messaging/src/main/java/wigzo/android/sdk/messaging/ProxyActivity.java'
+'/home/wigzo/Android/android_workspace/wigzo_mobile_stack/Testing App/sdk-messaging/src/main/java/wigzo/android/sdk/messaging/WigzoMessagingService.java'
